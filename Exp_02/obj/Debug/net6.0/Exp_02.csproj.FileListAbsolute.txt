@@ -1,0 +1,15 @@
+C:\Users\Учитель\Desktop\C#\Exp_02\obj\Debug\net6.0\Exp_02.csproj.AssemblyReference.cache
+C:\Users\Учитель\Desktop\C#\Exp_02\obj\Debug\net6.0\Exp_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Учитель\Desktop\C#\Exp_02\obj\Debug\net6.0\Exp_02.AssemblyInfoInputs.cache
+C:\Users\Учитель\Desktop\C#\Exp_02\obj\Debug\net6.0\Exp_02.AssemblyInfo.cs
+C:\Users\Учитель\Desktop\C#\Exp_02\obj\Debug\net6.0\Exp_02.csproj.CoreCompileInputs.cache
+C:\Users\Учитель\Desktop\C#\Exp_02\bin\Debug\net6.0\Exp_02.exe
+C:\Users\Учитель\Desktop\C#\Exp_02\bin\Debug\net6.0\Exp_02.deps.json
+C:\Users\Учитель\Desktop\C#\Exp_02\bin\Debug\net6.0\Exp_02.runtimeconfig.json
+C:\Users\Учитель\Desktop\C#\Exp_02\bin\Debug\net6.0\Exp_02.dll
+C:\Users\Учитель\Desktop\C#\Exp_02\bin\Debug\net6.0\Exp_02.pdb
+C:\Users\Учитель\Desktop\C#\Exp_02\obj\Debug\net6.0\Exp_02.dll
+C:\Users\Учитель\Desktop\C#\Exp_02\obj\Debug\net6.0\refint\Exp_02.dll
+C:\Users\Учитель\Desktop\C#\Exp_02\obj\Debug\net6.0\Exp_02.pdb
+C:\Users\Учитель\Desktop\C#\Exp_02\obj\Debug\net6.0\Exp_02.genruntimeconfig.cache
+C:\Users\Учитель\Desktop\C#\Exp_02\obj\Debug\net6.0\ref\Exp_02.dll
